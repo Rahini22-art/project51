@@ -1,0 +1,44 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  border-color: #0e0d0d;
+  padding: 20px;
+  font-weight: 400;
+  background-color: burlywood;
+}
+h1 {
+  padding: 15px;
+  font-family: cursive;
+}
+* {
+  border: solid;
+  border-color: black;
+  background-clip: border-box;
+}
+.animals {
+  background-color: #3349ff;
+  display: flex;
+  justify-content: space-between;
+  border-color: honeydew;
+}
+
+.camel {
+  display: flex;
+  justify-content: space-between;
+  background: #33ffe6;
+  padding-top: 0rem;
+  border-color: #3349ff;
+}
+.chameleon {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #fcff33;
+}
+.pigeon {
+  background: #ff3633;
+  display: flex;
+  justify-content: space-evenly;
+}
+body {
+  margin: 0px;
+}
